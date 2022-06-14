@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riyabrata
+- 👋 Hi, I’m Riyabrata
 - 👀 I’m interested in new technological deelopment
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I love coding, singing and playing chess.
