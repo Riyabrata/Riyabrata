@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riyabrata
-- 👀 I’m interested in Coding, Singing & Chess
+- 👀 I’m interested in new technological deelopment
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️
+- 💞️ I love coding, singing and playing chess.
 - 📫 How to reach me riyabrata@gmail.com
 
 <!---
